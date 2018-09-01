@@ -1,0 +1,19 @@
+.taskDone {
+    text-decoration: line-through;
+}
+
+h1 {
+    font-size: 58px;
+}
+
+h1, h2 {
+    font-family: 'Kosugi Maru';
+    text-align: center;    
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #7f2fc9;
+    border-color: #7f2fc9;
+}
+
